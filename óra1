@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<body>
+    <h1>muveltségi vetélkedő</h1>
+    <p>december</p>
+    <hr>
+    <h2>kandó hét</h2>
+    <p>február</p>
+    <hr>
+    <h2>csanyiki sportnap</h2>
+    <p>julius</p>
+</body>
+
+<body>
+    <p>majka-mindeki táncol</p>
+<pre>
+    régeben másvolt
+    a kilencvenes években mindeki táncolt
+    micsoda táncvolt
+</pre>
+</body>
+
+<body>
+    <p style="color: red;">ez egy piros betü sor</p>
+    <p style="color: blue;">ezmár kék szinü</p>
+    <p style="font-size:50px;">nagyob betü méretü sor</p>
+</body>
+<body style="background-color: powderblue;">
+ <h1>igy álithatod be a hátérnek a szinét</h1>
+ <p>legyen powderkék</p>
+</body>
+<body>
+    <h1 style="background-color: green;">ez a sor zöld hátért kapot</h1>
+    <p style="background-color: tomato;">ez pedik piros háterüt</p>
+</body>
