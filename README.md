@@ -1,1 +1,1 @@
-# programoz-s
+# programozas
